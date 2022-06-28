@@ -1,1 +1,1 @@
-Create a script that creates an alias Name: ls Value: rm *
+This is to show my solutions to the project tasks
